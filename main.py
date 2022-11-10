@@ -8,5 +8,6 @@ git commit ---отправка файла в репозиторий
         Initial commit
         :wq
 git branch slave -- создание новой ветки
+git checkout slave --переход на новую ветку
 
 '''
